@@ -1,10 +1,11 @@
 # Traffic Clock
 
+![Alt text](./img/traffic-clock-concept.png?raw=true "Optional Title")
 
 For people working from home, especially in Los Angeles, it would be nice to have a visual representation of the times when it best to leave the house.
 
 
-This app would find travel time to the closests 5-10 starbucks locations once every hour for 24 hours using the Google Maps API via whatever server side language that is not PHP
+This app would find travel time to the closests 5-10 starbucks locations once every hour for 24 hours using the Google Maps API via whatever server side language I find suitable
 
 
 From there it would rank the times from worst to best and assign them a corresponding color.
